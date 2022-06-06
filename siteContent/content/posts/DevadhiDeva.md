@@ -1,9 +1,6 @@
  ---
-author: "Sai Nadham"
 date: 2022-06-06
-#linktitle: MacOS on Hackintosh PC
 title: Devadhi Deva Vinayaka
-weight: 10
 categories: ["Ganesha"]
 ---
 
