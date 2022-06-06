@@ -1,16 +1,11 @@
 ---
-date: 2022-06-07 #Date of Upload
-title: Devadhi Deva Vinayaka
+date: 2020-04-02
+#linktitle: First Post
+title: First Post
 weight: 10
 comments: false
-categories: ["Ganesha"]
+tags: ["firstpost"]
 ---
 
-Devadhi Deva Vinayaka
-Pranava Swaroopa Suramuni Vandhitha
-Devadhi Deva Vinayaka
-Mangala Charana Pahi Gajanana
-Hey Shubha Dayaka Vigna Vinashaka
-Sri Charanam Bhava Dukha Haranam
 
-Listen to this song on Youtube [here](https://www.youtube.com/watch?v=UO9_HReTmZ4)
+This is my first post from **emacs** on  _KDE Neon_. Getting used to the _text formatting_ as I type through this post.
