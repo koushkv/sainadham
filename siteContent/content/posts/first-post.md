@@ -1,5 +1,7 @@
 ---
+author: "Sai Nadham"
 date: 2022-06-07 #Date of Upload
+linktitle: Devadhi Deva Vinayaka
 title: Devadhi Deva Vinayaka
 weight: 10
 comments: false
