@@ -1,10 +1,10 @@
 ---
-date: 2020-04-02
+date: 2020-04-02 #Date of Upload
 #linktitle: First Post
 title: First Post
 weight: 10
 comments: false
-tags: ["firstpost"]
+tags: ["firstpost"] #Deity
 ---
 
 
