@@ -99,29 +99,13 @@ series = "series"
 tag = "tags"
 author = "authors"
 
-[[params.social]]
-name = "Github"
-icon = "fa fa-2x fa-github"
-weight = 1
-url = "https://github.com/vikove/"
 
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
-weight = 2
-url = "https://gitlab.com/greyduck/"
 
 [[params.social]]
 name = "Mail"
 icon = "fa fa-2x fa-envelope"
 weight = 1
 url = "mailto:getintouch@koushikv.in"
-
-[[params.social]]
-name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/koushik-v-628a29129/"
 
 
 [languages.en]
