@@ -16,7 +16,7 @@ author = "Sai Nadham"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "A Blog for Sai Bhajans"
 keywords = "blog,developer,personal"
-info = ["Get up to date with the [latest posts](https://sainadham.in/posts)"]
+info = ["Get up to date with the [latest posts](https://www.sainadham.in/posts)"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
