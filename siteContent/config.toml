@@ -1,5 +1,5 @@
-baseURL = "https://koushikv.in"
-title = "Koushik V"
+baseURL = "https://sainadham.in"
+title = "Sai Nadham"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,9 +12,9 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Koushik V"
+author = "Sai Nadham"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Koushik's personal website"
+description = "A Blog for Sai Bhajans"
 keywords = "blog,developer,personal"
 info = ["Get up to date with my [latest posts](https://koushikv.in/posts), and see what I'm up to [now](https://koushikv.in/now)"]
 avatarURL = "images/avatar.jpg"
@@ -54,7 +54,7 @@ customJS = []
 
 # If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
 [params.goatCounter]
-code = "vikove"
+#code = "vikove"
 
 # If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
 # [params.cloudflare]
